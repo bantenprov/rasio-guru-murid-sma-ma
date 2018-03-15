@@ -76,7 +76,7 @@ children: [
       sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
     },
     meta: {
-      title: "Rasio Guru-Murid (RGM) SD/MI"
+      title: "Rasio Guru-Murid (RGM) SMA/MA"
     }
   }
 ```
@@ -96,7 +96,7 @@ children: [
         sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
       },
       meta: {
-        title: "Rasio Guru-Murid (RGM) SD/MI"
+        title: "Rasio Guru-Murid (RGM) SMA/MA"
       }
     }
  //== ...   
@@ -124,7 +124,7 @@ children: [
         },
         //== ...
         {
-          name: 'Rasio Guru-Murid (RGM) SD/MI',
+          name: 'Rasio Guru-Murid (RGM) SMA/MA',
           link: '/dashboard/rasio-guru-murid-sma-ma',
           icon: 'fa fa-angle-double-right'
         }

@@ -1,703 +1,208 @@
 [
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
-      "type": "category",
-      "region": "Provinsi",
-      "name": "Banten"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 30193,
-            "name": "2013"
-          },
-          {
-            "value": 30193,
-            "name": "2014"
-          },
-          {
-            "value": 42327,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
       "type": "category",
       "region": "Kabupaten",
-      "name": "Pandeglang"
+      "name": "Lebak",
+      "yyyy": "2013",
+      "title": "Jumlah Guru SMA/MA 2013"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 4955,
-            "name": "2013"
-          },
-          {
-            "value": 5253,
-            "name": "2014"
-          },
-          {
-            "value": 10593,
-            "name": "2015"
-          }
-        ]
+          {"value":1820,"name":"Kabupaten Pandeglang"},
+          {"value":1776,"name":"Kabupaten Lebak"},
+          {"value":2948,"name":"Kabupaten Tangerang"},
+          {"value":1619,"name":"Kabupaten Serang"},
+          {"value":1858,"name":"Kota Tangerang"},
+          {"value":1582,"name":"Kota Cilegon"},
+          {"value":773, "name":"Kota Serang"},
+          {"value":1145,"name":"Kota Tangerang Selatan"}
+        ] 
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
       "type": "category",
       "region": "Kabupaten",
-      "name": "Lebak"
+      "name": "Lebak",
+      "yyyy": "2013",
+      "title": "Jumlah Guru SMA/MA 2014"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 4926,
-            "name": "2013"
-          },
-          {
-            "value": 4694,
-            "name": "2014"
-          },
-          {
-            "value": 6322,
-            "name": "2015"
-          }
-        ]
+          {"value":2033,"name":"Kabupaten Pandeglang"},
+          {"value":1826,"name":"Kabupaten Lebak"},
+          {"value":2675,"name":"Kabupaten Tangerang"},
+          {"value":1687,"name":"Kabupaten Serang"},
+          {"value":1609,"name":"Kota Tangerang"},
+          {"value":1009,"name":"Kota Cilegon"},
+          {"value":798, "name":"Kota Serang"},
+          {"value":1321,"name":"Kota Tangerang Selatan"}
+        ] 
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
       "type": "category",
       "region": "Kabupaten",
-      "name": "Tangerang"
+      "name": "Lebak",
+      "yyyy": "2013",
+      "title": "Jumlah Guru SMA/MA 2015"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 6860,
-            "name": "2013"
-          },
-          {
-            "value": 6705,
-            "name": "2014"
-          },
-          {
-            "value": 11284,
-            "name": "2015"
-          }
-        ]
+          {"value":2033,"name":"Kabupaten Pandeglang"},
+          {"value":2104,"name":"Kabupaten Lebak"},
+          {"value":4721,"name":"Kabupaten Tangerang"},
+          {"value":1687,"name":"Kabupaten Serang"},
+          {"value":1609,"name":"Kota Tangerang"},
+          {"value":1106,"name":"Kota Cilegon"},
+          {"value":1156, "name":"Kota Serang"},
+          {"value":1321,"name":"Kota Tangerang Selatan"}
+        ] 
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
       "type": "category",
       "region": "Kabupaten",
-      "name": "Serang"
+      "name": "Lebak",
+      "yyyy": "2013",
+      "title": "Jumlah Murid SMA/MA 2013"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 3971,
-            "name": "2013"
-          },
-          {
-            "value": 3976,
-            "name": "2014"
-          },
-          {
-            "value": 3976,
-            "name": "2015"
-          }
-        ]
+          {"value":19343,"name":"Kabupaten Pandeglang"},
+          {"value":23447,"name":"Kabupaten Lebak"},
+          {"value":43521,"name":"Kabupaten Tangerang"},
+          {"value":27062,"name":"Kabupaten Serang"},
+          {"value":29507,"name":"Kota Tangerang"},
+          {"value":10701,"name":"Kota Cilegon"},
+          {"value":11570,"name":"Kota Serang"},
+          {"value":27316,"name":"Kota Tangerang Selatan"}
+        ] 
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
-      "type": "category",
-      "region": "Kota",
-      "name": "Tangerang"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 3317,
-            "name": "2013"
-          },
-          {
-            "value": 3499,
-            "name": "2014"
-          },
-          {
-            "value": 3499,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
-      "type": "category",
-      "region": "Kota",
-      "name": "Cilegon"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 1958,
-            "name": "2013"
-          },
-          {
-            "value": 1791,
-            "name": "2014"
-          },
-          {
-            "value": 1938,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
-      "type": "category",
-      "region": "Kota",
-      "name": "Serang"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 1424,
-            "name": "2013"
-          },
-          {
-            "value": 1859,
-            "name": "2014"
-          },
-          {
-            "value": 2299,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
-      "type": "category",
-      "region": "Kota",
-      "name": "Tangerang Selatan"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 2782,
-            "name": "2013"
-          },
-          {
-            "value": 2416,
-            "name": "2014"
-          },
-          {
-            "value": 2416,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Murid SMP/MTs  ",
-      "type": "category",
-      "region": "Provinsi",
-      "name": "Banten"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 638032,
-            "name": "2013"
-          },
-          {
-            "value": 30193,
-            "name": "2014"
-          },
-          {
-            "value": 450593,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Murid SMP/MTs  ",
       "type": "category",
       "region": "Kabupaten",
-      "name": "Pandeglang"
+      "name": "Lebak",
+      "yyyy": "2013",
+      "title": "Jumlah Murid SMA/MA 2014"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 65932,
-            "name": "2013"
-          },
-          {
-            "value": 72662,
-            "name": "2014"
-          },
-          {
-            "value": 47606,
-            "name": "2015"
-          }
-        ]
+          {"value":26465,"name":"Kabupaten Pandeglang"},
+          {"value":25112,"name":"Kabupaten Lebak"},
+          {"value":45101,"name":"Kabupaten Tangerang"},
+          {"value":31864,"name":"Kabupaten Serang"},
+          {"value":34415,"name":"Kota Tangerang"},
+          {"value":10684,"name":"Kota Cilegon"},
+          {"value":12746, "name":"Kota Serang"},
+          {"value":24863,"name":"Kota Tangerang Selatan"}
+        ] 
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs  ",
       "type": "category",
       "region": "Kabupaten",
-      "name": "Lebak"
+      "name": "Lebak",
+      "yyyy": "2013",
+      "title": "Jumlah Murid SMA/MA 2015"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 69644,
-            "name": "2013"
-          },
-          {
-            "value": 76632,
-            "name": "2014"
-          },
-          {
-            "value": 55077,
-            "name": "2015"
-          }
-        ]
+          {"value":26618,"name":"Kabupaten Pandeglang"},
+          {"value":24082,"name":"Kabupaten Lebak"},
+          {"value":47284,"name":"Kabupaten Tangerang"},
+          {"value":32011,"name":"Kabupaten Serang"},
+          {"value":34500,"name":"Kota Tangerang"},
+          {"value":10722,"name":"Kota Cilegon"},
+          {"value":12523, "name":"Kota Serang"},
+          {"value":24984,"name":"Kota Tangerang Selatan"}
+        ] 
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs  ",
       "type": "category",
       "region": "Kabupaten",
-      "name": "Tangerang"
+      "name": "Lebak",
+      "yyyy": "2013",
+      "title": "RGM SMA/MA 2013"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 172156,
-            "name": "2013"
-          },
-          {
-            "value": 170545,
-            "name": "2014"
-          },
-          {
-            "value": 135946,
-            "name": "2015"
-          }
-        ]
+          {"value":941,"name":"Kabupaten Pandeglang"},
+          {"value":757,"name":"Kabupaten Lebak"},
+          {"value":677,"name":"Kabupaten Tangerang"},
+          {"value":598,"name":"Kabupaten Serang"},
+          {"value":630,"name":"Kota Tangerang"},
+          {"value":1478,"name":"Kota Cilegon"},
+          {"value":668,"name":"Kota Serang"},
+          {"value":419,"name":"Kota Tangerang Selatan"}
+        ] 
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs  ",
       "type": "category",
       "region": "Kabupaten",
-      "name": "Serang"
+      "name": "Lebak",
+      "yyyy": "2013",
+      "title": "RGM SMA/MA 2014"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 81634,
-            "name": "2013"
-          },
-          {
-            "value": 87879,
-            "name": "2014"
-          },
-          {
-            "value": 58035,
-            "name": "2015"
-          }
-        ]
+          {"value":768,"name":"Kabupaten Pandeglang"},
+          {"value":727,"name":"Kabupaten Lebak"},
+          {"value":593,"name":"Kabupaten Tangerang"},
+          {"value":529,"name":"Kabupaten Serang"},
+          {"value":468,"name":"Kota Tangerang"},
+          {"value":944,"name":"Kota Cilegon"},
+          {"value":626, "name":"Kota Serang"},
+          {"value":531,"name":"Kota Tangerang Selatan"}
+        ] 
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs  ",
-      "type": "category",
-      "region": "Kota",
-      "name": "Tangerang"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 109695,
-            "name": "2013"
-          },
-          {
-            "value": 85916,
-            "name": "2014"
-          },
-          {
-            "value": 68928,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Murid SMP/MTs  ",
-      "type": "category",
-      "region": "Kota",
-      "name": "Cilegon"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 22387,
-            "name": "2013"
-          },
-          {
-            "value": 22553,
-            "name": "2014"
-          },
-          {
-            "value": 15129,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Murid SMP/MTs  ",
-      "type": "category",
-      "region": "Kota",
-      "name": "Serang"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 36092,
-            "name": "2013"
-          },
-          {
-            "value": 37862,
-            "name": "2014"
-          },
-          {
-            "value": 27467,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Murid SMP/MTs  ",
-      "type": "category",
-      "region": "Kota",
-      "name": "Tangerang Selatan"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 80492,
-            "name": "2013"
-          },
-          {
-            "value": 66628,
-            "name": "2014"
-          },
-          {
-            "value": 42405,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "RGM SMP/MTs   ",
-      "type": "category",
-      "region": "Provinsi",
-      "name": "Banten"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 473,
-            "name": "2013"
-          },
-          {
-            "value": 486,
-            "name": "2014"
-          },
-          {
-            "value": 8083,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "RGM SMP/MTs   ",
       "type": "category",
       "region": "Kabupaten",
-      "name": "Pandeglang"
+      "name": "Lebak",
+      "yyyy": "2013",
+      "title": "RGM SMA/MA 2015"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 752,
-            "name": "2013"
-          },
-          {
-            "value": 723,
-            "name": "2014"
-          },
-          {
-            "value": 2225,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "RGM SMP/MTs   ",
-      "type": "category",
-      "region": "Kabupaten",
-      "name": "Lebak"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 707,
-            "name": "2013"
-          },
-          {
-            "value": 613,
-            "name": "2014"
-          },
-          {
-            "value": 1148,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "RGM SMP/MTs   ",
-      "type": "category",
-      "region": "Kabupaten",
-      "name": "Tangerang"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 398,
-            "name": "2013"
-          },
-          {
-            "value": 393,
-            "name": "2014"
-          },
-          {
-            "value": 830,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "RGM SMP/MTs   ",
-      "type": "category",
-      "region": "Kabupaten",
-      "name": "Serang"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 486,
-            "name": "2013"
-          },
-          {
-            "value": 452,
-            "name": "2014"
-          },
-          {
-            "value": 685,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "RGM SMP/MTs   ",
-      "type": "category",
-      "region": "Kota",
-      "name": "Tangerang"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 302,
-            "name": "2013"
-          },
-          {
-            "value": 407,
-            "name": "2014"
-          },
-          {
-            "value": 508,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "RGM SMP/MTs   ",
-      "type": "category",
-      "region": "Kota",
-      "name": "Cilegon"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 875,
-            "name": "2013"
-          },
-          {
-            "value": 1938,
-            "name": "2014"
-          },
-          {
-            "value": 1281,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "RGM SMP/MTs   ",
-      "type": "category",
-      "region": "Kota",
-      "name": "Serang"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 395,
-            "name": "2013"
-          },
-          {
-            "value": 491,
-            "name": "2014"
-          },
-          {
-            "value": 837,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "RGM SMP/MTs   ",
-      "type": "category",
-      "region": "Kota",
-      "name": "Tangerang Selatan"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 346,
-            "name": "2013"
-          },
-          {
-            "value": 363,
-            "name": "2014"
-          },
-          {
-            "value": 570,
-            "name": "2015"
-          }
-        ]
+          {"value":764,"name":"Kabupaten Pandeglang"},
+          {"value":874,"name":"Kabupaten Lebak"},
+          {"value":998,"name":"Kabupaten Tangerang"},
+          {"value":527,"name":"Kabupaten Serang"},
+          {"value":466,"name":"Kota Tangerang"},
+          {"value":1032,"name":"Kota Cilegon"},
+          {"value":923, "name":"Kota Serang"},
+          {"value":529,"name":"Kota Tangerang Selatan"}
+        ] 
       }
     ]
   }
