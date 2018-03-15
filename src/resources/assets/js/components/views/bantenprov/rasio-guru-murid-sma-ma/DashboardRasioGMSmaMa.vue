@@ -25,7 +25,7 @@
         <div class="card h-100" style="color: #fff; background-color: #009688;">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            Rasio Guru Murid SMP MTs Berdasarkan Wilayah
+            Rasio Guru Murid SMA/MA Berdasarkan Wilayah
           </div>
           <div class="card-body">
             <rasio-guru-murid-sma-ma-bar-01></rasio-guru-murid-sma-ma-bar-01>
@@ -36,7 +36,7 @@
         <div class="card h-100" style="color: #fff; background-color: #FF9800;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Rasio Guru Murid SMP MTs Berdasarkan Wilayah
+            Rasio Guru Murid SMA/MA Berdasarkan Tahun
           </div>
           <div class="card-body">
             <rasio-guru-murid-sma-ma-pie-01></rasio-guru-murid-sma-ma-pie-01>
@@ -52,7 +52,7 @@
         <div class="card h-100" style="color: #fff; background-color: #F44336;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Rasio Guru Murid SMP MTs Berdasarkan Kategori
+            Rasio Guru Murid SMA/MA Berdasarkan Wilayah
           </div>
           <div class="card-body">
             <rasio-guru-murid-sma-ma-pie-02></rasio-guru-murid-sma-ma-pie-02>

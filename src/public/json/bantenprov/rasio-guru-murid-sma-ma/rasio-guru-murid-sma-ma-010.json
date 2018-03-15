@@ -5,19 +5,29 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2013",
-      "index": "Banten-2013",
+      "title": "Jumlah Guru SMA/MA 2013",
       "data": [
-        "Jumlah Guru SMP/MTs ",
-        "Jumlah Murid SMP/MTs ",
-        "RGM SMP/MTs "
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          30193,
-          638032,
-          473
+          1820,
+          1776,
+          2948,
+          1619,
+          1858,
+          1582,
+          773, 
+          1145
         ]
       }
     ]
@@ -25,22 +35,32 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2013",
-      "index": "Kabupaten-Pandeglang-2013",
+      "title": "Jumlah Murid SMA/MA 2013",
       "data": [
-        "Jumlah Guru SMP/MTs ",
-        "Jumlah Murid SMP/MTs ",
-        "RGM SMP/MTs "
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          4955,
-          65932,
-          752
+          19343,
+          23447,
+          43521,
+          27062,
+          29507,
+          10701,
+          11570,
+          27316
         ]
       }
     ]
@@ -48,22 +68,32 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Kabupaten",
-      "name": "Lebak",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2013",
-      "index": "Kabupaten-Lebak-2013",
+      "title": "RGM SMA/MA 2013",
       "data": [
-        "Jumlah Guru SMP/MTs ",
-        "Jumlah Murid SMP/MTs ",
-        "RGM SMP/MTs "
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          4926,
-          69644,
-          707
+          941,
+          757,
+          677,
+          598,
+          630,
+          1478,
+          668,
+          419
         ]
       }
     ]
@@ -71,22 +101,32 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Kabupaten",
-      "name": "Tangerang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2013",
-      "index": "Kabupaten-Tangerang-2013",
+      "title": "Jumlah Guru SMA/MA 2014",
       "data": [
-        "Jumlah Guru SMP/MTs ",
-        "Jumlah Murid SMP/MTs ",
-        "RGM SMP/MTs "
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          6860,
-          172156,
-          398
+          2033,
+          1826,
+          2675,
+          1687,
+          1609,
+          1009,
+          798,
+          1321
         ]
       }
     ]
@@ -94,22 +134,32 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Kabupaten",
-      "name": "Serang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2013",
-      "index": "Kabupaten-Serang-2013",
+      "title": "Jumlah Murid SMA/MA 2014",
       "data": [
-        "Jumlah Guru SMP/MTs ",
-        "Jumlah Murid SMP/MTs ",
-        "RGM SMP/MTs "
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          3971,
-          81634,
-          486
+          26465,
+          25112,
+          45101,
+          31864,
+          34415,
+          10684,
+          12746,
+          24863
         ]
       }
     ]
@@ -117,22 +167,32 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Kota",
-      "name": "Tangerang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2013",
-      "index": "Kota-Tangerang-2013",
+      "title": "RGM SMA/MA 2014",
       "data": [
-        "Jumlah Guru SMP/MTs ",
-        "Jumlah Murid SMP/MTs ",
-        "RGM SMP/MTs "
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          3317,
-          109695,
-          302
+          768,
+          727,
+          593,
+          529,
+          468,
+          944,
+          626,
+          531
         ]
       }
     ]
@@ -140,22 +200,32 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Kota",
-      "name": "Cilegon",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2013",
-      "index": "Kota-Cilegon-2013",
+      "title": "Jumlah Guru SMA/MA 2015",
       "data": [
-        "Jumlah Guru SMP/MTs ",
-        "Jumlah Murid SMP/MTs ",
-        "RGM SMP/MTs "
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          1958,
-          22387,
-          875
+          2033,
+          2104,
+          4721,
+          1687,
+          1609,
+          1106,
+          1156,
+          1321
         ]
       }
     ]
@@ -163,22 +233,32 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Kota",
-      "name": "Serang",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2013",
-      "index": "Kota-Serang-2013",
+      "title": "Jumlah Murid SMA/MA 2015",
       "data": [
-        "Jumlah Guru SMP/MTs ",
-        "Jumlah Murid SMP/MTs ",
-        "RGM SMP/MTs "
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          1424,
-          36092,
-          395
+          26618,
+          24082,
+          47284,
+          32011,
+          34500,
+          10722,
+          12523,
+          24984
         ]
       }
     ]
@@ -186,22 +266,32 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Kota",
-      "name": "Tangerang-Selatan",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2013",
-      "index": "Kota-Tangerang-Selatan-2013",
+      "title": "RGM SMA/MA 2015",
       "data": [
-        "Jumlah Guru SMP/MTs ",
-        "Jumlah Murid SMP/MTs ",
-        "RGM SMP/MTs "
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          2782,
-          80492,
-          346
+          764,
+          874,
+          998,
+          527,
+          466,
+          1032,
+          923,
+          529
         ]
       }
     ]
