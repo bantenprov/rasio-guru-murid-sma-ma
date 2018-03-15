@@ -4,7 +4,7 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/rasio-guru-murid-sma-ma/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/rasio-guru-murid-sma-ma/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/bantenprov/rasio-guru-murid-sma-ma/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/rasio-guru-murid-sma-ma/build-status/master)
 
-Rasio Guru-Murid (RGM) SMA/MA
+Rasio Guru-Murid (RGM) SD/MI
 
 ## install via composer
 
@@ -15,7 +15,7 @@ $ composer require bantenprov/rasio-guru-murid-sma-ma:dev-master
 - Latest release:
 
 ```bash
-
+$ composer require bantenprov/rasio-guru-murid-sma-ma:v0.1.0
 ```
 
 ## download via github
@@ -76,7 +76,7 @@ children: [
       sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
     },
     meta: {
-      title: "Rasio Guru-Murid (RGM) SMA/MA"
+      title: "Rasio Guru-Murid (RGM) SD/MI"
     }
   }
 ```
@@ -96,7 +96,7 @@ children: [
         sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
       },
       meta: {
-        title: "Rasio Guru-Murid SMA/MA"
+        title: "Rasio Guru-Murid (RGM) SD/MI"
       }
     }
  //== ...   
@@ -124,7 +124,7 @@ children: [
         },
         //== ...
         {
-          name: 'Rasio Guru-Murid SMA/MA',
+          name: 'Rasio Guru-Murid (RGM) SD/MI',
           link: '/dashboard/rasio-guru-murid-sma-ma',
           icon: 'fa fa-angle-double-right'
         }

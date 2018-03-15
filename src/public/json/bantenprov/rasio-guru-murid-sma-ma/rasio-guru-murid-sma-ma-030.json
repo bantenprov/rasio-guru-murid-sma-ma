@@ -1,0 +1,569 @@
+[
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMP/MTs ",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          30193,
+          30193,
+          42327
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMP/MTs ",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          638032,
+          620677,
+          450593
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMP/MTs ",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          473,
+          486,
+          8083
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMP/MTs ",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4955,
+          5253,
+          10593
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMP/MTs ",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          65932,
+          72662,
+          47606
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMP/MTs ",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          752,
+          723,
+          2225
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMP/MTs ",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4926,
+          4694,
+          6322
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMP/MTs ",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          69644,
+          76632,
+          55077
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMP/MTs ",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          707,
+          613,
+          1148
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMP/MTs ",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          6860,
+          6705,
+          11284
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMP/MTs ",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          172156,
+          170545,
+          135946
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMP/MTs ",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          398,
+          393,
+          830
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMP/MTs ",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          3971,
+          3976,
+          3976
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMP/MTs ",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          81634,
+          87879,
+          58035
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMP/MTs ",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          486,
+          452,
+          685
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMP/MTs ",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          3317,
+          3499,
+          3499
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMP/MTs ",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          109695,
+          85916,
+          68928
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMP/MTs ",
+      "region": "Kota",
+      "name": "Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          302,
+          407,
+          508
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMP/MTs ",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1958,
+          1791,
+          1938
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMP/MTs ",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          22387,
+          22553,
+          15129
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMP/MTs ",
+      "region": "Kota",
+      "name": "Cilegon",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          875,
+          794,
+          1281
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMP/MTs ",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1424,
+          1859,
+          2299
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMP/MTs ",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          36092,
+          37862,
+          27467
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMP/MTs ",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          395,
+          491,
+          837
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Guru SMP/MTs ",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2782,
+          2416,
+          2416
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Murid SMP/MTs ",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          80492,
+          66628,
+          42405
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "RGM SMP/MTs ",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          346,
+          363,
+          570
+        ]
+      }
+    ]
+  }
+]
