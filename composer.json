@@ -1,0 +1,29 @@
+{
+    "name": "bantenprov/rasio-guru-murid-sma-ma",
+    "description": "rasio-guru-murid-sma-ma",
+    "authors": [
+        {
+            "name": "bantenprov",
+            "email": "developer.bantenprov@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "support": {
+      "source": "https://github.com/bantenprov/rasio-guru-murid-sma-ma,",
+      "issues": "https://github.com/bantenprov/rasio-guru-murid-sma-ma/issues",
+      "wiki": "https://github.com/bantenprov/rasio-guru-murid-sma-ma/wiki"
+    },
+    "require": {
+        "php": ">=5.6.4",
+        "illuminate/support": "5.4.*"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers/helpers.php"
+        ],
+        "psr-4": {
+            "Bantenprov\\RasioGMSmaMa\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
